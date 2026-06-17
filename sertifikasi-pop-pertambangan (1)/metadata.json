@@ -1,0 +1,6 @@
+{
+  "name": "Sertifikasi POP Pertambangan",
+  "description": "AI Agent pembelajaran persiapan Sertifikasi Pengawas Operasional Pertama (POP) Pertambangan Minerba Indonesia. Uji kasus HOTS, simulasi wawancara asesor, dan rubrik kompetensi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
